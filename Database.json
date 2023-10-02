@@ -1,0 +1,36 @@
+{
+    "myBudget": [
+        {
+            "title": "Food",
+            "budget": 25
+        },
+        {
+            "title": "Rent",
+            "budget": 275
+        },
+        {
+            "title": "Grocery",
+            "budget": 110
+        },
+        {
+            "title": "Fuel",
+            "budget": 30
+        },
+        {
+            "title": "Installment",
+            "budget": 80
+        },
+        {
+            "title": "Electricity",
+            "budget": 40
+        },
+        {
+            "title": "Car",
+            "budget": 50
+        },
+        {
+            "title": "Others",
+            "budget": 70
+        }
+    ]
+}
